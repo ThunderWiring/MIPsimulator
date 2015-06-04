@@ -1,0 +1,16 @@
+C:\Users\bassam\Desktop\MIPS\MIPS\bin\Debug\MIPS.exe
+C:\Users\bassam\Desktop\MIPS\MIPS\bin\Debug\MIPS.pdb
+C:\Users\bassam\Desktop\MIPS\MIPS\obj\x86\Debug\MIPS.MIPS_Demo.resources
+C:\Users\bassam\Desktop\MIPS\MIPS\obj\x86\Debug\MIPS.Properties.Resources.resources
+C:\Users\bassam\Desktop\MIPS\MIPS\obj\x86\Debug\MIPS.csproj.GenerateResource.Cache
+C:\Users\bassam\Desktop\MIPS\MIPS\obj\x86\Debug\MIPS.exe
+C:\Users\bassam\Desktop\MIPS\MIPS\obj\x86\Debug\MIPS.pdb
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.exe
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.pdb
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\bin\Debug\MIPS.exe
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\bin\Debug\MIPS.pdb
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.MIPS_Demo.resources
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.Properties.Resources.resources
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.csproj.GenerateResource.Cache
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.csprojResolveAssemblyReference.cache
+C:\Users\bassam\Desktop\comm\Projects\MIPS\MIPS\obj\x86\Debug\MIPS.Add_pseudo_inst.resources
